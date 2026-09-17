@@ -152,5 +152,5 @@ Building software products and operational systems across different business dom
 </p>
 
 <p align="center">
-  <b>Open to opportunities across Software Engineering, Software Architecture, and Technical Leadership, particularly in product-focused teams building complex systems.</b>
+  <b>Open to opportunities in Full-Stack Development, Software Engineering, Software Architecture, and Technical Leadership.</b>
 </p>
