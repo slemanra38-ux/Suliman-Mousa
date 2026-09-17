@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Suliman Mousa 👋</h1>
-<h3 align="center">Software Architect · Technical Lead · Full-Stack Engineer</h3>
+
+<h3 align="center">Software Engineer · Software Architecture · Technical Leadership</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suliman-mousa-2a5686242">
@@ -8,71 +9,148 @@
   <a href="mailto:slemanra38@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Based%20in-Osnabr%C3%BCck%2C%20Germany-4B5563?style=flat" />
+  <img src="https://img.shields.io/badge/Based%20in-Germany-4B5563?style=flat" />
 </p>
 
 ---
 
 ### 🧭 About Me
 
-I'm a Software Architect and Technical Lead with hands-on experience designing and delivering **production, multi-tenant systems** end-to-end — from database and access-control design through mobile, modern web, and backend infrastructure.
+I'm a Software Engineer focused on **software architecture, business logic, and operational solutions**, with hands-on experience designing and delivering production-grade systems across web, mobile, backend, and administrative platforms.
 
-I've led cross-functional engineering teams (4–7 people) as technical owner and project manager across **logistics, telemedicine, and marketplace platforms**, translating complex operational requirements into secure, scalable architectures.
+I work across the full technical lifecycle — from **requirements analysis and system design to development, testing, deployment, and continuous improvement**.
 
-Most of my production code lives in **private repositories** — client work and platforms built under my own venture, **TechNova Eagle** — so this profile summarizes what I build rather than serving as a public code archive.
+My experience includes **multi-tenant systems, RBAC, distributed workflows, booking & scheduling engines, geospatial systems, real-time communication, financial workflows, and API-driven architectures**.
+
+I've led engineering teams of **4–7 people**, combining hands-on engineering with technical direction, architecture planning, code review, testing, and production delivery.
+
+My broader experience also spans **restaurant management, e-commerce, education, real estate, government services, and SEO & web performance**.
 
 ---
 
 ### 🏗️ What I Design & Build
 
-- **Distributed, multi-tenant architectures** with fine-grained RBAC and authorization boundaries
-- **Booking, scheduling & availability engines** — stateful lifecycles, concurrency-safe conflict resolution
-- **Geospatial & routing systems** — zone-based dispatch, delivery boundaries, map integrations
-- **Financial settlement systems** — multi-party transactions, dues, discounts, reconciliation logic
-- **Backend-for-Frontend (BFF) architectures** — Next.js App Router, secure session handling, React Server Components
-- **Cross-platform mobile apps** — Flutter with BLoC/Cubit, modular architecture
-- **Real-time systems** — event-driven notifications, live status propagation, WebSocket/Pusher-based updates
+**Architecture & Systems**
+
+* Distributed and multi-tenant architectures
+* RBAC and authorization boundaries
+* API-driven systems and BFF architectures
+* Modular and maintainable system design
+
+**Business & Operational Logic**
+
+* Complex business rules and stateful workflows
+* Booking, scheduling, and availability systems
+* Financial settlements, transactions, discounts, and reconciliation
+* Administrative and operational platforms
+* Process management and workflow automation
+
+**Specialized Systems**
+
+* Geospatial routing and zone-based operations
+* Real-time notifications and state propagation
+* Cross-platform mobile applications
+* Production infrastructure and deployment
 
 ---
 
 ### 🛠️ Core Stack
 
-| | |
-|---|---|
-| **Frontend** | React · Next.js · TypeScript · Zustand · Redux · Tailwind CSS |
-| **Mobile** | Flutter · Dart · BLoC/Cubit |
-| **Backend** | Node.js · PHP · Laravel · REST APIs |
-| **Data** | MySQL · Distributed data layers |
-| **Infra & DevOps** | Docker · Nginx · Linux/Ubuntu VPS · GitLab CI · Vitest |
-| **Integrations** | Google Maps Platform · Google Meet API · Firebase Cloud Messaging · OAuth 2.0 |
+| Area               | Technologies                                                               |
+| ------------------ | -------------------------------------------------------------------------- |
+| **Frontend**       | React · Next.js · TypeScript · Zustand · Redux · Tailwind CSS              |
+| **Mobile**         | Flutter · Dart · BLoC/Cubit                                                |
+| **Backend**        | Node.js · PHP · Laravel · REST APIs                                        |
+| **Data**           | MySQL · Database Design                                                    |
+| **Infrastructure** | Docker · Nginx · Linux/Ubuntu · GitLab CI · CI/CD                          |
+| **Testing**        | Vitest · Automated Testing · Code Review                                   |
+| **Integrations**   | Google Maps · Google Meet · Firebase · OAuth 2.0 · Meta Graph API · Twilio |
 
 ---
 
-### 💼 Selected Work (Private Repositories)
+### 💼 Selected Work
 
-| Project | Domain | Highlights |
-|---|---|---|
-| **Rento Car** | Multi-tenant car rental marketplace | Next.js BFF, 5-state booking engine, financial settlements, geospatial delivery |
-| **Gaz Express** | Logistics & delivery platform | Geospatial routing across 30 zones, real-time dispatch, operational resilience (v2) |
-| **AskTabib** | Telemedicine marketplace | Timezone-aware scheduling, Google Meet video consultations, role-based admin platform |
-| **BPMN Simulation Engine** | Business process simulation | Node.js, XML-driven config, token-based execution, real-time visualization |
-| **MediLink** | Healthcare management platform | Distributed architecture, RBAC, HIPAA-aligned encryption |
+#### 🚗 Rento Car
 
-*Code for these projects is private due to client/business confidentiality — happy to walk through architecture and technical decisions in conversation or interview.*
+**Multi-Tenant Car Rental Marketplace**
+
+Multi-application architecture, RBAC, complex rental business logic, 5-state booking lifecycle, concurrency-safe availability, financial workflows, geospatial delivery, and Next.js BFF.
+
+**Leadership:** Led a 7-person engineering team across architecture, development, testing, code review, and production delivery.
+
+**Repository →** `RENTO_CAR_REPOSITORY_URL`
+
+---
+
+#### 🚚 Gaz Express
+
+**Logistics & Delivery Platform**
+
+Geospatial routing across **30 operational zones**, deterministic dispatch rules, agent-zone management, real-time order states, and configurable operational workflows.
+
+**Leadership:** Led a 4-person engineering team from architecture through production launch.
+
+**Repository →** `GAZ_EXPRESS_REPOSITORY_URL`
+
+---
+
+#### 🩺 AskTabib
+
+**Telemedicine Platform**
+
+Timezone-aware scheduling and booking logic, Google Meet integration, OAuth, real-time notifications, multilingual support, and role-based administrative workflows.
+
+**Repository →** `ASKTABIB_REPOSITORY_URL`
+
+---
+
+#### ⚙️ BPMN Process Simulation Engine
+
+**Business Process Simulation**
+
+XML-driven process configuration, token-based execution, real-time visualization, event logging, throughput analysis, and bottleneck identification.
+
+**Repository →** `BPMN_REPOSITORY_URL`
+
+---
+
+#### 🏥 MediLink
+
+**Healthcare Management Platform**
+
+Distributed architecture, RBAC, fine-grained permissions, structured data layers, and security practices informed by healthcare requirements.
+
+**Repository →** `MEDILINK_REPOSITORY_URL`
+
+---
+
+### 🧠 Engineering Focus
+
+I focus on **understanding the business and operational problem behind the feature** — modeling business logic, defining clear system boundaries, evaluating trade-offs, and turning complex requirements into reliable, maintainable production systems.
 
 ---
 
 ### 🎓 Background
 
-- Bachelor's Degree in Information Technology Engineering (2024)
-- Building production software since 2022 — freelance, client, and founding-stage work
-- Founder, **TechNova Eagle**
+**B.Sc. Information Technology Engineering**
+Faculty of Engineering · 2024
+
+**Founder — TechNova Eagle**
+
+Building software products and operational systems across different business domains.
 
 ---
 
 ### 🌍 Languages
-🇬🇧 English (Professional) · 🇩🇪 German (B1) · 🇸🇾 Arabic (Native)
+
+🇸🇾 **Arabic** — Native · 🇬🇧 **English** — Very Good · 🇩🇪 **German** — B1
 
 ---
 
-<p align="center"><i>Open to Software Architect / Senior Full-Stack / Technical Lead opportunities.</i></p>
+<p align="center">
+  <i>Understanding the problem. Designing the system. Building it for production.</i>
+</p>
+
+<p align="center">
+  <b>Open to opportunities across Software Engineering, Software Architecture, and Technical Leadership, particularly in product-focused teams building complex systems.</b>
+</p>
